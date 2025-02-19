@@ -3,7 +3,7 @@
 🌱 I’m currently learning programming and building websites.
 💞️ I’m looking to collaborate on ...
 📫 How to reach me: nikitaprihozai@gmail.com
-😄 Pronouns: ...
+😄 Pronouns: he/him.
 ⚡ Fun fact: I love kick scootering.
 
 <!---
